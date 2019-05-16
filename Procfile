@@ -1,0 +1,1 @@
+web: ionic serve --port 8100 --noBrowser --nolivereload --noopen
